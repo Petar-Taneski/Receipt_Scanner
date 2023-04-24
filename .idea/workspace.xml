@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -23,31 +26,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/MCA/Final project/Pre-Interview-Task&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/MCA/Receipt scanner sent/Pre-Interview-Task/src/local/petartaneski/receiptscanner/ReceiptScanner.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
-  <component name="RunManager" selected="Application.ReceiptScanner">
-    <configuration name="ReceiptScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.petartaneski.receiptscanner.ReceiptScanner" />
-      <module name="Pre-Interview-Task" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="local.petartaneski.receiptscanner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.local.petartaneski.receiptscanner.ReceiptScannerEdited">
     <configuration name="RecieptScanner.ReceiptScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RecieptScanner.ReceiptScanner" />
       <module name="Pre-Interview-Task" />
@@ -55,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="local.petartaneski.receiptscanner.ReceiptScannerEdited" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="local.petartaneski.receiptscanner.ReceiptScannerEdited" />
+    <configuration name="local.petartaneski.receiptscanner.ReceiptScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="local.petartaneski.receiptscanner.ReceiptScanner" />
       <module name="Pre-Interview-Task" />
       <extension name="coverage">
         <pattern>
@@ -70,7 +60,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReceiptScanner" />
         <item itemvalue="Application.local.petartaneski.receiptscanner.ReceiptScannerEdited" />
         <item itemvalue="Application.RecieptScanner.ReceiptScanner" />
       </list>
@@ -86,26 +75,5 @@
       <updated>1679508734241</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/local/petartaneski/receiptscanner/ReceiptScanner.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/local/petartaneski/receiptscanner/ReceiptScanner.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/local/petartaneski/receiptscanner/ReceiptScanner.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
